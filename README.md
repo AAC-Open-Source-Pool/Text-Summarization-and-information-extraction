@@ -1,3 +1,13 @@
+<h2>Team Details</h2>
+<b>Team Number: </b><p>24AACR10</p>
+<b>Senior Mentor:</b><p>Abhiram.D</p>
+<b>Junior Mentor:</b><p>Rahul Sangubotla</p>
+<b>Team Member 1:</b><p> Salike Akshat </p>
+<b>Team Member 2:</b><p>G V S Raghav </p>
+<b>Team Member 3:</b><p> Ayushman Raja Lingampally </p>
+<b>Team Member 4:</b><p>Arya Banda </p>
+<b>Team Member 5:</b><p> Anish Sriram Vavilala </p>
+
 <h1 align="centre">
    <img src="https://i.imgur.com/ycFUTNy.png">
 </h1>
